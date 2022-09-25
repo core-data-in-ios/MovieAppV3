@@ -31,6 +31,7 @@
 		8DE8804125FA89030022B91A /* BaseModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DE8804025FA89030022B91A /* BaseModel.swift */; };
 		E6FFECF028E0A25900532FF7 /* AddActorViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6FFECEF28E0A25900532FF7 /* AddActorViewModel.swift */; };
 		E6FFECF228E0A36500532FF7 /* Actor+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6FFECF128E0A36500532FF7 /* Actor+Extensions.swift */; };
+		E6FFECF428E0A8B200532FF7 /* ActorListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6FFECF328E0A8B200532FF7 /* ActorListViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -60,6 +61,7 @@
 		8DE8804025FA89030022B91A /* BaseModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseModel.swift; sourceTree = "<group>"; };
 		E6FFECEF28E0A25900532FF7 /* AddActorViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddActorViewModel.swift; sourceTree = "<group>"; };
 		E6FFECF128E0A36500532FF7 /* Actor+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Actor+Extensions.swift"; sourceTree = "<group>"; };
+		E6FFECF328E0A8B200532FF7 /* ActorListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActorListViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -131,6 +133,7 @@
 				8D919E1825EEA0A80029DEFB /* AddReviewViewModel.swift */,
 				8D919E3A25EED5030029DEFB /* ReviewListViewModel.swift */,
 				E6FFECEF28E0A25900532FF7 /* AddActorViewModel.swift */,
+				E6FFECF328E0A8B200532FF7 /* ActorListViewModel.swift */,
 			);
 			path = "View Models";
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 				8DD96A0425F09885002DE8A2 /* Review+Extensions.swift in Sources */,
 				8D5C25DF25E72747002BAF40 /* MovieListScreen.swift in Sources */,
 				8D919E1625EE9E5C0029DEFB /* AddReviewScreen.swift in Sources */,
+				E6FFECF428E0A8B200532FF7 /* ActorListViewModel.swift in Sources */,
 				8D0926C125E59B3B00502FF8 /* MovieAppApp.swift in Sources */,
 				8D5C25D025E6FA7C002BAF40 /* RatingView.swift in Sources */,
 				8D919E1925EEA0A80029DEFB /* AddReviewViewModel.swift in Sources */,
