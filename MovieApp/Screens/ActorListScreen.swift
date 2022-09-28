@@ -47,7 +47,7 @@ struct ActorListScreen: View {
         }, content: {
             AddActorScreen(movie: movie)
         })
-        .navigationTitle("Movie Title")
+        .navigationTitle(movie.title)
         .navigationBarItems(trailing: Button(action: {
             isPresented = true
         }, label: {
